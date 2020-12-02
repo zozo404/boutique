@@ -11,12 +11,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f5f2b91-940a-43d7-9308-6099a1b2eddf" name="Default Changelist" comment="premier commit">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/css/accueil.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/packages/security.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/security.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/packages/twig.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/twig.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Controller/AccueilController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/AccueilController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/accueil/index.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/accueil/index.html.twig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html.twig" afterDir="false" />
     </list>
@@ -28,6 +26,13 @@
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -155,6 +160,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -172,7 +178,10 @@
       <workItem from="1604560151554" duration="11348000" />
       <workItem from="1604578700368" duration="12059000" />
       <workItem from="1605127396243" duration="133000" />
-      <workItem from="1605706407545" duration="4523000" />
+      <workItem from="1605706407545" duration="6391000" />
+      <workItem from="1606230034974" duration="2806000" />
+      <workItem from="1606833500243" duration="4324000" />
+      <workItem from="1606901270925" duration="12478000" />
     </task>
     <task id="LOCAL-00001" summary="premier commit">
       <created>1604494021380</created>
@@ -188,7 +197,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604494835413</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="premier commit">
+      <created>1605712789214</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605712789215</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -215,6 +231,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="925" y="340" key="#PHP_CS_Fixer_Ignored_Files/0.0.1536.864@0.0.1536.864" timestamp="1604590067304" />
+    <state x="504" y="234" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606903260005">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="504" y="234" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1606903260005" />
     <state x="406" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1604486079262">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -231,22 +251,26 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="639" y="100" width="803" height="670" maximized="true" key="DiffContextDialog/0.0.1536.864@0.0.1536.864" timestamp="1604590189478" />
-    <state x="93" y="93" width="1350" height="678" key="DirDiffDialog" timestamp="1605711902865">
+    <state x="93" y="93" width="1350" height="678" key="DirDiffDialog" timestamp="1606903191314">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="93" y="93" width="1350" height="678" key="DirDiffDialog/0.0.1536.864@0.0.1536.864" timestamp="1605711902865" />
-    <state x="549" y="174" key="FileChooserDialogImpl" timestamp="1605127527099">
+    <state x="93" y="93" width="1350" height="678" key="DirDiffDialog/0.0.1536.864@0.0.1536.864" timestamp="1606903191314" />
+    <state x="549" y="174" key="FileChooserDialogImpl" timestamp="1606913872317">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="549" y="174" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1605127527099" />
+    <state x="549" y="174" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1606913872317" />
     <state x="865" y="158" key="NewPhpClassDialog" timestamp="1604588310532">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="865" y="158" key="NewPhpClassDialog/0.0.1536.864@0.0.1536.864" timestamp="1604588310532" />
-    <state x="687" y="165" key="Vcs.Push.Dialog.v2" timestamp="1604588330206">
+    <state x="687" y="165" key="Vcs.Push.Dialog.v2" timestamp="1605712971571">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="687" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1604588330206" />
+    <state x="687" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1605712971571" />
+    <state x="586" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605712962092">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="586" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1605712962092" />
     <state x="897" y="342" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1604495096054">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
