@@ -11,11 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f5f2b91-940a-43d7-9308-6099a1b2eddf" name="Default Changelist" comment="second commit">
-      <change afterPath="$PROJECT_DIR$/templates/css/login.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/css/produits.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/accueil/index.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/accueil/index.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html.twig" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -186,7 +182,7 @@
       <workItem from="1609752143835" duration="358000" />
       <workItem from="1614697649417" duration="2570000" />
       <workItem from="1614846479380" duration="33000" />
-      <workItem from="1614868054397" duration="3879000" />
+      <workItem from="1614868054397" duration="4873000" />
     </task>
     <task id="LOCAL-00001" summary="premier commit">
       <created>1604494021380</created>
@@ -216,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606920788134</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="second commit">
+      <created>1614872226189</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1614872226189</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
