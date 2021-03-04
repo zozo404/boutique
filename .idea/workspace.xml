@@ -10,11 +10,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f5f2b91-940a-43d7-9308-6099a1b2eddf" name="Default Changelist" comment="premier commit">
-      <change afterPath="$PROJECT_DIR$/templates/css/accueil.css" afterDir="false" />
+    <list default="true" id="4f5f2b91-940a-43d7-9308-6099a1b2eddf" name="Default Changelist" comment="second commit">
+      <change afterPath="$PROJECT_DIR$/templates/css/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/css/produits.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/accueil/index.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/accueil/index.html.twig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html.twig" afterDir="false" />
     </list>
@@ -159,7 +158,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/OneDrive/Bureau/SIO/bts sio 2/developpement/trainingjsquery" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
@@ -181,7 +180,13 @@
       <workItem from="1605706407545" duration="6391000" />
       <workItem from="1606230034974" duration="2806000" />
       <workItem from="1606833500243" duration="4324000" />
-      <workItem from="1606901270925" duration="12478000" />
+      <workItem from="1606901270925" duration="16182000" />
+      <workItem from="1608035322862" duration="10646000" />
+      <workItem from="1609750763741" duration="73000" />
+      <workItem from="1609752143835" duration="358000" />
+      <workItem from="1614697649417" duration="2570000" />
+      <workItem from="1614846479380" duration="33000" />
+      <workItem from="1614868054397" duration="3879000" />
     </task>
     <task id="LOCAL-00001" summary="premier commit">
       <created>1604494021380</created>
@@ -204,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605712789215</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="second commit">
+      <created>1606920788134</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1606920788134</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -224,68 +236,29 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="premier commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="premier commit" />
+    <MESSAGE value="second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="second commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="925" y="340" key="#PHP_CS_Fixer_Ignored_Files" timestamp="1604590067304">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="925" y="340" key="#PHP_CS_Fixer_Ignored_Files/0.0.1536.864@0.0.1536.864" timestamp="1604590067304" />
     <state x="504" y="234" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606903260005">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="504" y="234" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1606903260005" />
-    <state x="406" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1604486079262">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="406" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.864@0.0.1536.864" timestamp="1604486079262" />
-    <state x="791" y="190" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1604572753631">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="791" y="190" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1536.864@0.0.1536.864" timestamp="1604572753631" />
-    <state x="808" y="280" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1604590457327">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="808" y="280" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.864@0.0.1536.864" timestamp="1604590457327" />
-    <state x="639" y="100" width="803" height="670" maximized="true" key="DiffContextDialog" timestamp="1604590189478">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="639" y="100" width="803" height="670" maximized="true" key="DiffContextDialog/0.0.1536.864@0.0.1536.864" timestamp="1604590189478" />
     <state x="93" y="93" width="1350" height="678" key="DirDiffDialog" timestamp="1606903191314">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="93" y="93" width="1350" height="678" key="DirDiffDialog/0.0.1536.864@0.0.1536.864" timestamp="1606903191314" />
-    <state x="549" y="174" key="FileChooserDialogImpl" timestamp="1606913872317">
+    <state x="682" y="270" key="FileChooserDialogImpl" timestamp="1614846506691">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="549" y="174" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1606913872317" />
-    <state x="865" y="158" key="NewPhpClassDialog" timestamp="1604588310532">
+    <state x="682" y="270" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1614846506691" />
+    <state x="687" y="165" key="Vcs.Push.Dialog.v2" timestamp="1606920902159">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="865" y="158" key="NewPhpClassDialog/0.0.1536.864@0.0.1536.864" timestamp="1604588310532" />
-    <state x="687" y="165" key="Vcs.Push.Dialog.v2" timestamp="1605712971571">
+    <state x="687" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1606920902159" />
+    <state x="107" y="347" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1614869138117">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="687" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1605712971571" />
-    <state x="586" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605712962092">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="586" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1605712962092" />
-    <state x="897" y="342" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1604495096054">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="897" y="342" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.864@0.0.1536.864" timestamp="1604495096054" />
-    <state x="966" y="324" key="publish.login" timestamp="1604579053242">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="966" y="324" key="publish.login/0.0.1536.864@0.0.1536.864" timestamp="1604579053242" />
-    <state x="750" y="199" key="run.anything.popup" timestamp="1604501903752">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="750" y="199" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1604501903752" />
-    <state x="732" y="172" width="672" height="678" key="search.everywhere.popup" timestamp="1604578823138">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="732" y="172" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1604578823138" />
+    <state x="107" y="347" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1536.864@0.0.1536.864" timestamp="1614869138117" />
   </component>
 </project>

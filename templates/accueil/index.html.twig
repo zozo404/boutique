@@ -9,40 +9,41 @@
     <div class="col-12">
         <div class="row">
             <div class="col-12">
+
                 <body style="background-color:#8f8d8d;">
                 </body>
-                <div class="jumbotron">
+                <div class="jumbotron" style="background-color: #333333;">
                     <div class="text text-center">
 
 
 
 
-                      <p style="color: #000000;">Bienvenue sur Foot404.</p>
+                      <p style="color: #ffffff;">Bienvenue sur Foot404.</p>
                         <!--<body style="background=#c14646;"></body>--!>
                         <!-- <p></p> --!>
                     </div>
                     </div>
                 </div>
+            {% for i in 1..1 %}
+            <div class="imgAccueilDIV" style="margin-left: auto;margin-right: auto">
+
+
+
+
+
+                <img src="{{ asset('images/foot'~'.jpg') }}"
+                     class="rounded img-fluid" alt="foot">
+
+
 
             </div>
-
-        </div>
-
-        <div class="row">
-
-            {% for i in 1..4 %}
-                <div class="col-2">
-                    <figure>
-                    <img src="{{ asset('images/Ballon'~i~'.jpg') }}"
-                         class="rounded img-fluid " alt="Ballon">
-                        <figcaption>Ballon de foot: </figcaption>
-                    </figure>
-                </div>
             {% endfor %}
 
-                <img src="{{ asset('images/images'~ '.jpg') }}"
+        </div>
 
         </div>
+
+
     </div>
 
 {% endblock %}
