@@ -6,7 +6,7 @@
     <nav class="navbar navbar-expand-lg navbar-light bg-dark">
 
     </nav>
-    <body style="background-color:#8f8d8d;">
+    <body style="background-color:#ebebeb;">
     </body>
 <style>
     .example-wrapper { margin: 1em auto; max-width: 800px; width: 95%; font: 18px/1.5 sans-serif; }
@@ -57,22 +57,49 @@
     </ul> --!>
 </div>
     <div style="margin-top: 10px ; display: flex">
-        {% for i in 1..6 %}
+            <!--{% for i in 1..6 %}
 
 
-                <div class="col text-center">
+                    <div class="col text-center">
 
 
-                    <div>
-                        <img src="{{ asset('images/Ballon'~i~'.png') }}"
-                             class="rounded img-fluid " alt="Ballon">
+                        <div>
+                            <img src="{{ asset('images/Ballon'~i~'.png') }}"
+                                 class="rounded img-fluid " alt="Ballon">
+                        </div>
+
+
                     </div>
 
+            {% endfor %}--!>
+        <div style="width: 45rem; text-align: center; font-family: cursive">
+            <img src="{{ asset('images/Ballon1.png') }}"
+                 class="rounded img-fluid " alt="Ballon"><p>Ligue des Champions 2019/2020</p>
+        </div>
+        <div style="width: 45rem;text-align: center;font-family: cursive">
+            <img src="{{ asset('images/Ballon2.png') }}"
+                 class="rounded img-fluid " alt="Ballon"><p>Equipe de France champions du monde 2 étoiles</p>
+        </div>
+        <div style="width: 45rem;text-align: center;font-family: cursive">
+            <img src="{{ asset('images/Ballon3.png') }}"
+                 class="rounded img-fluid " alt="Ballon"><p>Coupe de France</p>
+        </div>
+        <div style="width: 45rem;text-align: center;font-family: cursive">
+            <img src="{{ asset('images/Ballon4.png') }}"
+                 class="rounded img-fluid " alt="Ballon"><p>Equipe d'Espagne</p>
+        </div>
+        <div style="width: 45rem;text-align: center;font-family: cursive">
+            <img src="{{ asset('images/Ballon5.png') }}"
+                 class="rounded img-fluid " alt="Ballon"><p>Nike PSG</p>
+        </div>
+        <div style="width: 45rem;text-align: center;font-family: cursive">
+            <img src="{{ asset('images/Ballon6.png') }}"
+                 class="rounded img-fluid " alt="Ballon"><p>Nike FC Barcelone</p>
+        </div>
 
-                </div>
-        {% endfor %}
+
     </div>
 
-    <footer style="margin-top: 10px; font-family: cursive">✔️ Tous les produits vendus sont de qualités. </footer>
+    <footer style="margin-top: 10px; font-family: cursive">✔️ Produits de qualités reconnues. </footer>
 {% endblock %}
 

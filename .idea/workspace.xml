@@ -12,9 +12,13 @@
   <component name="ChangeListManager">
     <list default="true" id="4f5f2b91-940a-43d7-9308-6099a1b2eddf" name="Default Changelist" comment="troisieme commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/ProduitsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/ProduitsController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Security/AppCustomAuthenticator.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Security/AppCustomAuthenticator.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/accueil/index.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/accueil/index.html.twig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/css/produits.css" beforeDir="false" afterPath="$PROJECT_DIR$/templates/css/produits.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/produits/index.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/produits/index.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/security/login.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/security/login.html.twig" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,10 +161,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/OneDrive/Bureau/SIO/bts sio 2/developpement/trainingjsquery" />
+    <property name="last_opened_file_path" value="$USER_HOME$/OneDrive/Bureau/copieaxa" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -187,7 +192,7 @@
       <workItem from="1614846479380" duration="33000" />
       <workItem from="1614868054397" duration="4924000" />
       <workItem from="1615379243203" duration="11191000" />
-      <workItem from="1615446948978" duration="5943000" />
+      <workItem from="1615446948978" duration="20215000" />
     </task>
     <task id="LOCAL-00001" summary="premier commit">
       <created>1604494021380</created>
@@ -252,7 +257,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615391318380</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="troisieme commit">
+      <created>1615455136505</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1615455136505</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -285,14 +297,26 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="93" y="93" width="1350" height="678" key="DirDiffDialog/0.0.1536.864@0.0.1536.864" timestamp="1606903191314" />
-    <state x="682" y="270" key="FileChooserDialogImpl" timestamp="1614846506691">
+    <state x="682" y="270" key="FileChooserDialogImpl" timestamp="1615473313310">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="682" y="270" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1614846506691" />
-    <state x="687" y="165" key="Vcs.Push.Dialog.v2" timestamp="1615391332485">
+    <state x="682" y="270" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1615473313310" />
+    <state x="277" y="77" key="SettingsEditor" timestamp="1615473360546">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="687" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1615391332485" />
+    <state x="277" y="77" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1615473360546" />
+    <state x="687" y="165" key="Vcs.Push.Dialog.v2" timestamp="1615455149666">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="687" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1615455149666" />
+    <state x="541" y="306" width="619" height="282" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1615473359783">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="541" y="306" width="619" height="282" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1536.864@0.0.1536.864" timestamp="1615473359783" />
+    <state x="410" y="158" width="700" height="530" key="recent.locations.popup" timestamp="1615466533445">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="410" y="158" width="700" height="530" key="recent.locations.popup/0.0.1536.864@0.0.1536.864" timestamp="1615466533445" />
     <state x="107" y="347" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1614869138117">
       <screen x="0" y="0" width="1536" height="864" />
     </state>

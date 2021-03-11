@@ -1,0 +1,3 @@
+/*a mettre dans produits pour page par produits
+ <!--onclick="location.href='{{ app.request.url ~ "produits/"~ produits.idProduits }}'"-->
+ */
