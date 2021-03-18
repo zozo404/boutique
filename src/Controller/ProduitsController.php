@@ -14,8 +14,12 @@ class ProduitsController extends AbstractController
      */
     public function index(): Response
     {
+        $Produits = $this->getDoctrine()
+            ->getRepository(Produits::class)
+            ->findAll();
+
         return $this->render('produits/index.html.twig', [
-            'controller_name' => 'ProduitsController',
+            'produits' => $Produits,
         ]);
     }
     /* à résoudre

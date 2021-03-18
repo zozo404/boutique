@@ -13,11 +13,8 @@
     <list default="true" id="4f5f2b91-940a-43d7-9308-6099a1b2eddf" name="Default Changelist" comment="troisieme commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Controller/ProduitsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/ProduitsController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Security/AppCustomAuthenticator.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Security/AppCustomAuthenticator.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/accueil/index.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/accueil/index.html.twig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/css/produits.css" beforeDir="false" afterPath="$PROJECT_DIR$/templates/css/produits.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/produits/index.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/produits/index.html.twig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/security/login.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/security/login.html.twig" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -161,7 +158,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/OneDrive/Bureau/copieaxa" />
+    <property name="last_opened_file_path" value="$USER_HOME$/OneDrive/Bureau/SIO/bts sio 2/developpement/coursJs" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
@@ -192,7 +189,12 @@
       <workItem from="1614846479380" duration="33000" />
       <workItem from="1614868054397" duration="4924000" />
       <workItem from="1615379243203" duration="11191000" />
-      <workItem from="1615446948978" duration="20215000" />
+      <workItem from="1615446948978" duration="21113000" />
+      <workItem from="1615906074540" duration="3440000" />
+      <workItem from="1615973026045" duration="736000" />
+      <workItem from="1615974119769" duration="1215000" />
+      <workItem from="1616051207954" duration="46000" />
+      <workItem from="1616060145167" duration="2210000" />
     </task>
     <task id="LOCAL-00001" summary="premier commit">
       <created>1604494021380</created>
@@ -264,7 +266,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615455136505</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="troisieme commit">
+      <created>1615476817842</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1615476817842</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -289,26 +298,22 @@
     <option name="LAST_COMMIT_MESSAGE" value="troisieme commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="504" y="234" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606903260005">
+    <state x="93" y="93" width="1350" height="678" key="DirDiffDialog" timestamp="1615909812333">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="504" y="234" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1606903260005" />
-    <state x="93" y="93" width="1350" height="678" key="DirDiffDialog" timestamp="1606903191314">
+    <state x="93" y="93" width="1350" height="678" key="DirDiffDialog/0.0.1536.864@0.0.1536.864" timestamp="1615909812333" />
+    <state x="682" y="270" key="FileChooserDialogImpl" timestamp="1616051248761">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="93" y="93" width="1350" height="678" key="DirDiffDialog/0.0.1536.864@0.0.1536.864" timestamp="1606903191314" />
-    <state x="682" y="270" key="FileChooserDialogImpl" timestamp="1615473313310">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="682" y="270" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1615473313310" />
+    <state x="682" y="270" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1616051248761" />
     <state x="277" y="77" key="SettingsEditor" timestamp="1615473360546">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="277" y="77" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1615473360546" />
-    <state x="687" y="165" key="Vcs.Push.Dialog.v2" timestamp="1615455149666">
+    <state x="687" y="165" key="Vcs.Push.Dialog.v2" timestamp="1615476827101">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="687" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1615455149666" />
+    <state x="687" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1615476827101" />
     <state x="541" y="306" width="619" height="282" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1615473359783">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
