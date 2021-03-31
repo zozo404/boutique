@@ -2,40 +2,31 @@
 
 namespace App\Entity;
 
-use App\Repository\CategorieRepository;
 use Doctrine\ORM\Mapping as ORM;
 
 /**
- * @ORM\Entity(repositoryClass=CategorieRepository::class)
+ * Categorie
+ *
+ * @ORM\Table(name="categorie")
+ * @ORM\Entity
  */
 class Categorie
 {
     /**
+     * @var int
+     *
+     * @ORM\Column(name="id_categorie", type="integer", nullable=false)
      * @ORM\Id
-     * @ORM\GeneratedValue
-     * @ORM\Column(type="integer")
+     * @ORM\GeneratedValue(strategy="IDENTITY")
      */
-    private $id;
+    private $idCategorie;
 
     /**
-     * @ORM\Column(type="string", length=255)
+     * @var string|null
+     *
+     * @ORM\Column(name="nomCategorie", type="string", length=50, nullable=true)
      */
-    private $libelle;
+    private $nomcategorie;
 
-    public function getId(): ?int
-    {
-        return $this->id;
-    }
 
-    public function getLibelle(): ?string
-    {
-        return $this->libelle;
-    }
-
-    public function setLibelle(string $libelle): self
-    {
-        $this->libelle = $libelle;
-
-        return $this;
-    }
 }
