@@ -10,17 +10,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f5f2b91-940a-43d7-9308-6099a1b2eddf" name="Default Changelist" comment="troisieme commit">
-      <change afterPath="$PROJECT_DIR$/templates/produits/show.html.twig" afterDir="false" />
+    <list default="true" id="4f5f2b91-940a-43d7-9308-6099a1b2eddf" name="Default Changelist" comment="commit pour confinement">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Controller/ProduitsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/ProduitsController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Entity/Categorie.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entity/Categorie.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Entity/CategorieController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entity/CategorieController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Entity/Produits.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entity/Produits.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Entity/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entity/User.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/accueil/index.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/accueil/index.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/produits/index.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/produits/index.html.twig" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -208,6 +199,9 @@
       <workItem from="1616097182630" duration="606000" />
       <workItem from="1616186098514" duration="91000" />
       <workItem from="1616504087634" duration="667000" />
+      <workItem from="1617183613508" duration="115000" />
+      <workItem from="1617267331188" duration="387000" />
+      <workItem from="1617269702325" duration="1026000" />
     </task>
     <task id="LOCAL-00001" summary="premier commit">
       <created>1604494021380</created>
@@ -293,7 +287,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616062596946</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="commit pour confinement">
+      <created>1617183716349</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1617183716350</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -315,16 +316,18 @@
     <MESSAGE value="premier commit" />
     <MESSAGE value="second commit" />
     <MESSAGE value="troisieme commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="troisieme commit" />
+    <MESSAGE value="commit pour confinement" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit pour confinement" />
   </component>
   <component name="WindowStateProjectService">
     <state x="562" y="141" key="#com.intellij.ide.util.MemberChooser" timestamp="1616074410202">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="562" y="141" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1616074410202" />
-    <state x="93" y="93" width="1350" height="678" key="DirDiffDialog" timestamp="1616072126372">
+    <state x="93" y="93" width="1350" height="678" key="DirDiffDialog" timestamp="1617183730775">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
+    <state x="93" y="93" width="1350" height="678" key="DirDiffDialog/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1617183730775" />
     <state x="93" y="93" width="1350" height="678" key="DirDiffDialog/0.0.1536.864@0.0.1536.864" timestamp="1616072126372" />
     <state x="682" y="270" key="FileChooserDialogImpl" timestamp="1616072775816">
       <screen x="0" y="0" width="1536" height="864" />
@@ -334,14 +337,19 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="277" y="77" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1616072781756" />
-    <state x="687" y="165" key="Vcs.Push.Dialog.v2" timestamp="1616062602240">
+    <state x="687" y="165" key="Vcs.Push.Dialog.v2" timestamp="1617183670840">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
+    <state x="687" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1617183670840" />
     <state x="687" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1616062602240" />
     <state x="541" y="306" width="619" height="282" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1616072781049">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="541" y="306" width="619" height="282" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1536.864@0.0.1536.864" timestamp="1616072781049" />
+    <state x="640" y="324" key="publish.login" timestamp="1617183641749">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="640" y="324" key="publish.login/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1617183641749" />
     <state x="410" y="158" width="700" height="530" key="recent.locations.popup" timestamp="1615466533445">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
